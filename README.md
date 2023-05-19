@@ -32,4 +32,10 @@ We used pre-trained Word2Vec as features, TextCNN and TextRNN as classifiers.
 
 Training:
 
-- []()
+- [3.0_train_network.py](https://github.com/Anmin-Yang/nlp_depression/blob/main/3.0_train_network.py)
+
+Network Architecture:
+
+- [3.1_textcnn.py](https://github.com/Anmin-Yang/nlp_depression/blob/main/3.1_textcnn.py)
+
+- [3.2_textrnn.py](https://github.com/Anmin-Yang/nlp_depression/blob/main/3.2_textrnn.py)
