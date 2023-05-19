@@ -1,6 +1,6 @@
 # nlp_depression
 
-This is the repository for the natural language processing of narrative writing for depression screening in adolescents.
+This is the repository for **Natural language processing of narrative writing for depression screening in adolescents**.
 
 ## Battery Description
 
